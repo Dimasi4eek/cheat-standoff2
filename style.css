@@ -1,0 +1,25 @@
+.blue {
+    color: white;
+}
+body {
+    background: rgb(0, 38, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    padding: 20px 50px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(0, 117, 240);
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 0px 5px 5px
+    black
+}
